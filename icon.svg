@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><rect width="512" height="512" rx="92" fill="#843D58"/><text x="256" y="355" text-anchor="middle" font-family="Arial,sans-serif" font-size="310" font-weight="700" fill="white">K</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="KulluHunaSG open-book icon">
+<rect width="512" height="512" rx="88" fill="#843D58"/>
+<g fill="none" stroke="#FFF5E8" stroke-width="23" stroke-linecap="round" stroke-linejoin="round">
+<path d="M256 175C218 144 160 139 112 151Q101 155 101 172V348Q101 365 118 364C172 358 222 367 256 390C290 367 340 358 394 364Q411 365 411 348V172Q411 155 400 151C352 139 294 144 256 175Z"/>
+<path d="M256 175V390"/>
+</g>
+<path d="M153 223V317M153 275L209 223M153 275L211 317" fill="none" stroke="#FFF5E8" stroke-width="25" stroke-linecap="square" stroke-linejoin="round"/>
+<g fill="#FFF5E8"><circle cx="292" cy="234" r="10"/><circle cx="292" cy="276" r="10"/><circle cx="292" cy="318" r="10"/></g>
+<g stroke="#FFF5E8" stroke-width="16" stroke-linecap="round"><path d="M321 234H370M321 276H370M321 318H370"/></g>
+</svg>
